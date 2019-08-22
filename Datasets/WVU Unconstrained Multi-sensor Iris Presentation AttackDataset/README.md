@@ -1,12 +1,11 @@
-**Website** - http://iab-rubric.org/resources/UnMIPA.html
+**Website** - http://iab-rubric.org/resources/UnMIPA.html<br/>
 **Email to be mailed** - databases@iab-rubric.org
 
-**Description**
+**Description**<br/>
 The database consists of 18,706 iris images from 81 subjects. It contains textured contact lenses of blue, green, gray, violet, and brown colors from the following brands: Bausch and Lomb, Freshlook Dailies, Freshlook Colorblends, and Celebration. For each subject, iris images are acquired using 3 iris scanners: CMITECH EMX-30, IriShield BK 2121U, and IriShield MK 2120U.
 For each subject in the database, iris images have been captured using different cameras with and without textured contact lens in both indoors (controlled) and outdoors (unconstrained) environment. The iris images acquired outdoor have been acquired at different times of the day as well as in different weather conditions.
 
-**Requirements**
-
+**Requirements**<br/>
 To obtain the password for the compressed file, email the duly filled license agreement to databases@iab-rubric.org with the subject line "License agreement for WVU UnMIPA Database"
 NOTE: The license agreement has to be signed by someone having the legal authority to sign on behalf of the institute, such as the head of the institution or registrar. If a license agreement is signed by someone else, it will not be processed further.
 
