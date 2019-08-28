@@ -1,3 +1,4 @@
+**Status** - Mail sent. Waiting for reply<br/>
 **Website** - http://zbum.ia.pw.edu.pl/EN/node/46<br/>
 **Email to be mailed** - M.Trokielewicz@elka.pw.edu.pl<br/><br/>
 **Description:** <br/>
